@@ -118,6 +118,21 @@ h1 {
 
 /* Club ethos */
 
+.links {
+    text-align: center;
+    margin-bottom: 25px;
+    font-size: 1rem;
+    font-weight: bold;
+}
+
+.links a {
+    text-decoration: none;
+}
+
+.useful-links  {
+    margin-top: 20px;
+}
+
 #club-ethos{
     height: 600px;
 }
